@@ -17,7 +17,8 @@ sudo cp ./agent_chunsh/agent.conf /usr/local/nginx/conf/vhost/agent.conf
 service nginx restart
 ```
 在想使用代理的网址后加.youdomain.com即可</br>
-```Example:www.google.com.chunsh.com;s.w.org.chunsh.com;
+```
+Example:www.google.com.chunsh.com;s.w.org.chunsh.com;
 ```
 </br>
 
